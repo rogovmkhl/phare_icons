@@ -1,0 +1,4 @@
+[Logo]
+https://raw.githubusercontent.com/rogovmkhl/phare_icons/main/Phare_logo_small.png
+[Team]
+https://raw.githubusercontent.com/rogovmkhl/phare_icons/main/team/Mikhail.jpg

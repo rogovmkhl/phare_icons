@@ -2,3 +2,10 @@
 https://raw.githubusercontent.com/rogovmkhl/phare_icons/main/Phare_logo_small.png
 [Team]
 https://raw.githubusercontent.com/rogovmkhl/phare_icons/main/team/Mikhail.jpg
+
+
+Mikhail Rogov
+CTO at Phare Technologies
++4306608050953
+mikhail@phare-ts.com
+www.phare-ts.com
